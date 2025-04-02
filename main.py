@@ -1,5 +1,4 @@
-import input
-import output
+from app.io import input, output
 
 
 def main():
